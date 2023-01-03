@@ -3,7 +3,7 @@
   <a href="https://brunowesleyaraujo.github.io/Portifolio/" target="_blank">Click here to check My Portfolio</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="images/readme.png" />
+  <img href="https://brunowesleyaraujo.github.io/Portifolio/" alt="Demo" src="images/readme.png" />
 </div>
 
 <br/>
